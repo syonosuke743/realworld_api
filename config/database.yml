@@ -15,7 +15,7 @@ test:
 
 production:
   production:
-  database: <%= Rails.application.credentials.db[:wjz55+/O55WEoVuGsDuoalF4+9HE2dNXeJEL49C92LeHUqr6mdTRAxacZJA1R/rL/wQjuSk3IT9VXpsmR9MnJ7o+VtLqlc99yRZdW2Z5zm+H+9OjpDJRi32YgiyFdamvsV7ar+tP8BnV1zgKLshDiHuU7/pt9Yajoy9HTMG492iYgdJHiwPwnDa40fgJ8MbkgKnbLOjfdh7PZ92kMv7rnZRppdebgJ8afAIgrl3G1AHDPD0MdZl4wI88oY/wvbkvIYwFMr7rWUV3UlqHhmlLh1wnsXa16Dmwgc8I4NeDNMXy6jeTVZOzRXiCt3ADnTw0lw+GSpQgz0avU50qG4Fx/HqrzzCMgzhUozXyRSnuYwmGQtyIxqdQGXspJx4u2cMSUU1KBNpxO/eUVKnolZ85YCZX3N/tgYZDUoA7SNYPO6sl9KjoXrjRqlpU0dDo7IgCT3yFc39we8iHi2/RnnhYGRmVeDqi8qlbD4SLZ/8NVgE4p5cuC9O/cSitGZiW1TNAwiYJyYddK7VF3QAB2RHE3KrGS2X5WkUrUqqp5g==--1iCpTihw5qlMmTY9--fZm/+QTPczr2plK3gau4dA==] %>
+  database: realworld_api_production
   adapter: mysql2
   encoding: utf8mb4
   charset: utf8mb4
