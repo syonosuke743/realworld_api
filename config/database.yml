@@ -15,7 +15,7 @@ test:
 
 production:
   production:
-  database: realworld_api_production
+  database: conduit_api_production
   adapter: mysql2
   encoding: utf8mb4
   charset: utf8mb4
